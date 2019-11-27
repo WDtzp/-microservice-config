@@ -4,8 +4,8 @@ spring:
 ---
 spring:
   profiles: dev
-name: aaadev
+name: bbbdev
 ---
 spring:
   profiles: test
-name: aaatest
+name:bbbtest
